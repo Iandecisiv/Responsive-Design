@@ -57,7 +57,7 @@ body {
 }
 
 .content_section .flexy_box {
-    width: 32.33333333333333333333333333%;
+    width: 32%;
     background-color: lightsteelblue;
     margin: auto;
     border: solid lightgrey;
@@ -138,7 +138,9 @@ h1 {
 }
 
 img {
-	border-radius:50%;
+    border-radius:50%;
+    height: auto;
+    max-width: 33%;
 }
 
 .end_section {
